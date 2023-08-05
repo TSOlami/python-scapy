@@ -1,0 +1,3 @@
+# Network interception
+
+Network interception is the process of capturing network traffic and inspecting it closely to determine what is happening on the network. There are Two Monitoring Techniques Router Based and Non-Router Based. Monitoring functionalities that are built-into the routers themselves and do not require additional installation of hardware or software are referred to as Router Based techniques. Non-Router based techniques require additional hardware and software to be installed and provide greater flexibility. Router Based Monitoring Techniques are hard-coded into the routers and therefore offer little flexibility. Non-router based techniques are still limited in their abilities they do offer more flexibility than the router based techniques.
